@@ -11,7 +11,7 @@ export default function InfoZoneSection() {
             <ul className="grid">
               <li>
                 <div className="text-4xl text-wri-blue">ExpoZone</div>
-                <span className="block pb-10text-wri-blue text-wri-blue">
+                <span className="block pb-10 text-wri-blue">
                   during the entire <br /> WRI 2024 Conference
                 </span>
                 <p>
